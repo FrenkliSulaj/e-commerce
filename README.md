@@ -1,2 +1,3 @@
 # e-commerce
-Testing example
+Spring boot application with features like order,
+inventory management
